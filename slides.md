@@ -109,7 +109,7 @@ layout: two-cols-header
 layout: section
 ---
 
-# Projects annexes
+# 3. Projects annexes
 
 ---
 
@@ -120,7 +120,7 @@ Pour certains éléments communs à my et à directory
 <img src="./assets/lib.png" />
 
 ---
-transition: fade-out
+transition: fade
 ---
 
 # Visiotify
@@ -130,7 +130,7 @@ transition: fade-out
 <img src="./assets/figma.png" />
 
 ---
-transition: fade-out
+transition: fade
 ---
 
 # Visiotify
